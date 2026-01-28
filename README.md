@@ -13,11 +13,19 @@ Might Contain Cheats.
 Features:
 
 
-Chat Switcher 
+Chat Switcher
+ 
 Message Triggers (Sends a message when a specific trigger message appears in chat)
 
-Copyable Emotes (for Party Finder notes)  AutoWish  Low HP Cry (resonates with AutoWish)
+
+Copyable Emotes (for Party Finder notes) 
+ AutoWish 
+ Low HP Cry (resonates with AutoWish)
+
 
 Unanimous Cape (So mod users can recognize each other) 
-Blood Room Remaining Mobs Counter  Wither Key Tracer  Starred Mob ESP (visible through walls)  
+
+Blood Room Remaining Mobs Counter 
+ Wither Key Tracer 
+ Starred Mob ESP (visible through walls)  
 
