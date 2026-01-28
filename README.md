@@ -31,3 +31,13 @@ Wither Key Tracer
 
 Starred Mob ESP (visible through walls)  
 
+Watch the Showcase Video here:
+https://www.youtube.com/@KrammersKeller
+
+Also Check out the Discord I've made:
+https://discord.gg/eN7bhSwp5v
+
+If you are experiencing Issues, feel free to reach out:
+krammerskeller@gmail.com
+
+
