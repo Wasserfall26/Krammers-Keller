@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "kk",
+    "name": "Krammers Keller",
+    "description": "Eine Mod für Hypixel",
+    "version": "1.6",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Wasserfall_26"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
